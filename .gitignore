@@ -12,3 +12,4 @@ __pycache__/
 *.log
 
 scripts\1_anonimizar-dataset-linea-de-produccion-v2.ipynb
+scripts/1_anonimizar-dataset-linea-de-produccion-v2.ipynb
