@@ -1,0 +1,14 @@
+# Datos sensibles
+data/orig-data/
+.env
+*.env
+
+# Outputs de Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Otros
+.DS_Store
+*.log
+
+scripts\1_anonimizar-dataset-linea-de-produccion-v2.ipynb
